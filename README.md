@@ -9,8 +9,8 @@ This is example is to show different parts of the Git Repo and various commands 
 As stated above, the main purpose is to provide simple examples for git training 
 ## Deployment
 
-DEPLOYED! 
+This is a simple web projects 
 ## How to Contribute
-This is a simple web projects
-
+ 
+Please fork this repository and then issue Pull Request for review.
 2025 Git.Training.
