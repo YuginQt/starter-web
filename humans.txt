@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Eugene Jherico Naval navaljericho24@gmail.com	@yuginQt
 
 # THANKS
 
