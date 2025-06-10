@@ -15,4 +15,4 @@ This is a simple web projects
 ## How to Contribute
  
 Please fork this repository and then issue Pull Request for review.
-2025 Git.Training.
+2025 Git.Training. All rights reserved!
