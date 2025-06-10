@@ -1,8 +1,6 @@
 ## Starter Web Project
 
-This is a simple website projects for showing how to use git in github
-adding a line for rebasing example
-more changes for myfeature branch too
+This is a simple website projects for showing how to use git in github. Updating for emergency fix after stash
 ## Introduction
 
 This is example is to show different parts of the Git Repo and various commands using a web projects.
